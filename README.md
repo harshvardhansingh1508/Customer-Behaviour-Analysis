@@ -156,15 +156,9 @@ Identify previously valuable customers and test targeted reactivation campaigns.
 ```text
 Customer-Behaviour-Analysis/
 │
-├── Customer_Behaviour_Analysis.ipynb
+├── Customer_Behaviour_Analysis_Harshvardhan_Singh.ipynb
+├── Customer_Behaviour_Analysis_Report_Harshvardhan_Singh.pdf
 ├── README.md
-├── dataset/
-│   └── customer_behavior.csv
-│
-└── visualizations/
-    ├── customer_segments.png
-    ├── revenue_analysis.png
-    └── customer_behavior.png
 ```
 
 > The exact file names may vary depending on the final files uploaded to the repository.
